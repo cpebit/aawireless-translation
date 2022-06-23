@@ -4,45 +4,45 @@
     <string name="step">Passo %1$d / %2$d</string>
     <string name="start">Inizia</string>
     <string name="connect_phone">Metti in moto l\'auto e collega il telefono tramite cavo USB</string>
-    <string name="to_begin">To begin setting up your device please make sure Wireless Projection is enabled inside Android Auto</string>
-    <string name="plug_in_aaw">Unplug your phone and plug in the AAWireless dongle.</string>
+    <string name="to_begin">Per configurare il telefono, assicurati che sia abilitata la proiezione wireless in Android Auto</string>
+    <string name="plug_in_aaw">Scollega il telefono e collega il dongle AAWireless</string>
 
-    <string name="if_not">If the \"Wireless Android Auto\" option is not visible you will need to enable it from the developer settings, please follow these steps:
+    <string name="if_not">Se l\'opzione \"Modalità wireless di Android Auto\" non è visibile, va abilitata dalle impostazioni sviluppatore seguendo questi passaggi:
         \n
-        \nIn Android Auto settings, tap the version section 10 times in a row.
-        \nConfirm that you want to enable the developer settings.
-        \nFrom the top right corner menu select \"Developer options\" then enable \"Add Wireless Projection\"
+        \nNelle impostazioni di Android Auto, tocca la sezione versione 10 volte di seguito
+        \nConferma di voler abilitare le impostazioni sviluppatore
+        \nDal menù in alto a destra seleziona \"Impostazioni sviluppatore\" ed abilita \"Aggiungi la proiezione wireless alle impostazioni\"
         \n
-        \n<p>See images below:</p>
+        \n<p>Vedi le immagini qui sotto:</p>
 </string>
-    <string name="start_setup">Start Setup</string>
-    <string name="open_aa_settings">Open Android Auto Settings</string>
-    <string name="open_bluetooth_settings">Open Bluetooth Settings</string>
-    <string name="open_wifi_settings">Open Wi-Fi Settings</string>
-    <string name="open_troubleshooting">Open troubleshooting</string>
-    <string name="could_not_open_aa_settings">Could not open Android Auto settings, is Android auto installed?</string>
-    <string name="next">Next</string>
-    <string name="plugin">Plug in</string>
-    <string name="searching">Searching</string>
-    <string name="for_aawireless">for AAWireless device...</string>
-    <string name="device_found">Device found</string>
-    <string name="launching">Launching...</string>
-    <string name="could_not_pair">Could not pair</string>
-    <string name="could_not_pair_desc">Could not pair, please restart the device or try to pair manually to AAWireless-*** or AndroidAuto-AAW***</string>
-    <string name="bt_not_found">Not found</string>
-    <string name="bt_not_found_desc">Is your device powered on? If it\'s powered on, please try to pair manually to AAWireless-*** or AndroidAuto-AAW***</string>
-    <string name="retry">Retry</string>
-    <string name="pairing">Pairing...</string>
-    <string name="cancel">Cancel</string>
-    <string name="download_now">Download now</string>
-    <string name="download_later">Download later</string>
-    <string name="warning">Warning</string>
-    <string name="error_min_length">Number of characters must be greater than %d</string>
-    <string name="error_max_length">Number of characters must be less than %d</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
-    <string name="enable_bluetooth">Enable bluetooth</string>
-    <string name="please_enable_bluetooth">Please enable bluetooth to use this app.</string>
+    <string name="start_setup">Avvia configurazione</string>
+    <string name="open_aa_settings">Apri le impostazioni di Android Auto</string>
+    <string name="open_bluetooth_settings">Apri le impostazioni Bluetooth</string>
+    <string name="open_wifi_settings">Apri le impostazioni WiFi</string>
+    <string name="open_troubleshooting">Apri risoluzione dei problemi</string>
+    <string name="could_not_open_aa_settings">Impossibile aprire le impostazioni di Android Auto, Android Auto è installato?</string>
+    <string name="next">Avanti</string>
+    <string name="plugin">Connetti</string>
+    <string name="searching">Ricerca in corso</string>
+    <string name="for_aawireless">di dispositivo AAWireless…</string>
+    <string name="device_found">Dispositivo trovato</string>
+    <string name="launching">Avvio in corso…</string>
+    <string name="could_not_pair">Impossibile accoppiare</string>
+    <string name="could_not_pair_desc">Impossibile accoppiare, prova a riavviare il dispositivo o ad accoppiare manualmente a AAWireless-*** o AndroidAuto-AAW***</string>
+    <string name="bt_not_found">Non trovato</string>
+    <string name="bt_not_found_desc">Il dispositivo è acceso? Se sì, prova ad accoppiare manualmente a AAWireless-*** o AndroidAuto-AAW***</string>
+    <string name="retry">Riprova</string>
+    <string name="pairing">Accoppiamento in corso…</string>
+    <string name="cancel">Annulla</string>
+    <string name="download_now">Scarica ora</string>
+    <string name="download_later">Scarica più tardi</string>
+    <string name="warning">Attenzione</string>
+    <string name="error_min_length">Il numero di caratteri deve essere superiore a %d</string>
+    <string name="error_max_length">Il numero di caratteri deve essere inferiore a %d</string>
+    <string name="enable">Abilita</string>
+    <string name="disable">Disabilita</string>
+    <string name="enable_bluetooth">Abilita bluetooth</string>
+    <string name="please_enable_bluetooth">Abilitare il bluetooth per poter usare questa app</string>
 
     <!-- Preferences -->
     <string name="passthrough">Passthrough</string>
