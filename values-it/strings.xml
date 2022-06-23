@@ -87,20 +87,20 @@
     <string name="usb_default">Predefinita</string>
 
     <!-- OTA -->
-    <string name="ota_title">Update your device</string>
-    <string name="ota_start_update">Start update</string>
+    <string name="ota_title">Aggiorna il dispositivo</string>
+    <string name="ota_start_update">Avvia aggiornamento</string>
     <string name="ota_notification_channel_name">AAWireless OTA</string>
-    <string name="ota_download_start">Starting download</string>
-    <string name="ota_downloading">Downloading: %d%%</string>
-    <string name="ota_download_complete">Download complete</string>
-    <string name="ota_download_failed">Download failed</string>
-    <string name="ota_update_starting">Starting update</string>
-    <string name="ota_update_pending">Update pending</string>
-    <string name="ota_updating">Updating: %d%%</string>
-    <string name="ota_wait_for_reboot">Waiting for reboot</string>
-    <string name="ota_update_complete">Update complete</string>
-    <string name="ota_update_failed">Update failed</string>
-    <string name="ota_connecting_to_device">Connecting to device</string>
+    <string name="ota_download_start">Avvio download</string>
+    <string name="ota_downloading">Scaricamento in corso: %d%%</string>
+    <string name="ota_download_complete">Download completato</string>
+    <string name="ota_download_failed">Download non riuscito</string>
+    <string name="ota_update_starting">Avvio aggiornamento in corso</string>
+    <string name="ota_update_pending">Aggiornamento in sospeso</string>
+    <string name="ota_updating">In aggiornamento: %d%%</string>
+    <string name="ota_wait_for_reboot">In attesa di riavvio</string>
+    <string name="ota_update_complete">Aggiornamento completato</string>
+    <string name="ota_update_failed">Aggiornamento non riuscito</string>
+    <string name="ota_connecting_to_device">Connessione al dispositivo in corso</string>
     <string name="ota_download_pending">Download starting when connected to WiFi</string>
     <string name="ota_update_available">Update available</string>
     <string name="ota_no_update_available">No update available</string>
