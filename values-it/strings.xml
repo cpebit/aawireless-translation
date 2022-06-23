@@ -1,9 +1,9 @@
 <resources>
     <string name="aawireless" translatable="false">AAWireless</string>
-    <string name="get_going">Get Going</string>
-    <string name="step">Step %1$d / %2$d</string>
-    <string name="start">Start</string>
-    <string name="connect_phone">Please start your car and connect your phone using a wired USB connection first.</string>
+    <string name="get_going">Prosegui</string>
+    <string name="step">Passo %1$d / %2$d</string>
+    <string name="start">Inizia</string>
+    <string name="connect_phone">Metti in moto l\'auto e collega il telefono tramite cavo USB</string>
     <string name="to_begin">To begin setting up your device please make sure Wireless Projection is enabled inside Android Auto</string>
     <string name="plug_in_aaw">Unplug your phone and plug in the AAWireless dongle.</string>
 
