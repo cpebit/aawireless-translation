@@ -57,12 +57,12 @@
     <string name="remove_tap">Restrizione tocco</string>
     <string name="remove_tap_desc">Se abilitata, consentirà più di 6 tocchi consecutivi. ATTENZIONE: può rendere la posizione GPS imprecisa o in ritardo</string>
     <string name="media_sink">Diffusione multimediale</string>
-    <string name="media_sink_desc">Con questa opzione abilitata, potrai riprodurre i file multimediali su un altro ricevitore Bluetooth</string>
+    <string name="media_sink_desc">Con questa opzione abilitata, potrai riprodurre i file multimediali su un altro ricevitore bluetooth</string>
     <string name="tts_sink">Diffusione TTS</string>
-    <string name="tts_sink_desc">Con questa opzione abilitata, potrai riprodurre le indicazioni di navigazione su un diverso ricevitore Bluetooth</string>
+    <string name="tts_sink_desc">Con questa opzione abilitata, potrai riprodurre le indicazioni di navigazione su un diverso ricevitore bluetooth</string>
     <string name="auto_video_focus">Focus video automatico</string>
     <string name="auto_video_focus_desc">Se abilitata richiede il focus del video all\'avvio, facendo aprire Android Auto immediatamente alla connessione senza premere un pulsante sullo schermo. Potrebbe non funzionare su tutte le unità</string>
-    <string name="wifi_connect_timeout">Timeout Wifi</string>
+    <string name="wifi_connect_timeout">Timeout WiFi</string>
     <string name="wifi_connect_timeout_desc">Modifica il timeout se la connessione al dispositivo impiega molto tempo. Tempo espresso in millisecondi.</string>
     <string name="prefer_last_connected_phone">Priorità all\'ultimo telefono connesso</string>
     <string name="developerMode">Modalità sviluppatore</string>
@@ -115,7 +115,7 @@
     <string name="changelog_address">https://github.com/cpebit/aawireless-issues/blob/master/FIRMWARE-CHANGELOG.md</string>
     <string name="disable_vpn">Se hai attivato una VPN, disabilitala o inserisci l\'app AAWireless in whitelist prima di avviare l\'aggiornamento</string>
 
-    <string name="ota_metered_network">Sei connesso a una rete dati, sei sicuro di voler scaricare questo aggiornamento ora? Puoi programmarlo o scaricarlo subito.</string>
+    <string name="ota_metered_network">Sei connesso a una rete dati, sei sicuro di voler scaricare questo aggiornamento ora? Puoi programmarlo o scaricarlo subito</string>
 
     <string name="wifi_client_desc">La modalità client WiFi consente di utilizzare una rete WiFi esistente in auto come hotspot. Utilizzando questa modalità, Start / Stop e connessione automatica non saranno disponibili</string>
     <string name="wifi_client_ssid">SSID del client</string>
@@ -191,7 +191,7 @@
     <string name="menu_not_available">Menù non disponibile</string>
     <string name="menu_not_available_desc">Questo menù è disponibile solo sul firmware 2.0.0 o superiore. Sarà rilasciato a breve</string>
     <string name="enabled">Abilitato</string>
-    <string name="disabled">Disabiltata</string>
+    <string name="disabled">Disabilitata</string>
     <string name="could_not_change_debug_mode">Impossibile modificare la modalità debug</string>
     <string name="could_not_get_device_information">Impossibile ottenere info, il dispositivo è acceso?</string>
     <string name="could_not_send_bug_report">Impossibile inviare la segnalazione</string>
@@ -214,7 +214,7 @@
     <string name="decrease_priority">Diminuisci priorità</string>
     <string name="paired_phones_non_functional_warning">Abilitando la modalità Start / Stop o la modalità dongle, la priorità del telefono non funziona. Per assegnare la priorità ai telefoni con la modalità Start / Stop o dongle, dare la priorità alle connessioni vivavoce del telefono dall\'autoradio, se possibile.</string>
 
-    <string name="unstable_warning" translatable="false">"Questa è una versione di sviluppo (potenzialmente) instabile dell'app AAWireless. Ci possono essere bug o opzioni che non funzionano correttamente. Se preferisci la versione stabile dell'app, disiscriviti dalla distribuzione di sviluppo Firebase e scarica l'app AAWireless dal Play Store.\n\nPer eliminare il tuo account, clicca sul pulsante \"Elimina account\" sotto, autenticati con l'account Google e premi \"Elimina Account\" nella pagina web."</string>
+    <string name="unstable_warning" translatable="false">Questa è una versione di sviluppo (potenzialmente) instabile dell\'app AAWireless. Ci possono essere bug o opzioni che non funzionano correttamente. Se preferisci la versione stabile dell\'app, disiscriviti dalla distribuzione di sviluppo Firebase e scarica l\'app AAWireless dal Play Store.\n\nPer eliminare il tuo account, clicca sul pulsante \"Elimina account\" sotto, autenticati con l\'account Google e premi \"Elimina Account\" dalla pagina web</string>
     <string name="delete_account" translatable="false">Elimina account</string>
 
     <!-- Widget TODO: translate -->
