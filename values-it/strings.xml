@@ -178,33 +178,33 @@
     <string name="already_a_device">Hai già un dispositivo AAWireless? Iniziamo!</string>
 
     <string name="invalid_email_address">Indirizzo email non valido</string>
-    <string name="required_field">This field is required</string>
-    <string name="lets_start">Let\'s start</string>
-    <string name="go_to_settings">Go to settings</string>
-    <string name="welcome">Welcome</string>
-    <string name="this_is_aawireless">To the companion app of AAWireless, the very first Android Auto Wireless dongle.</string>
-    <string name="system_update">System update</string>
-    <string name="select_device">Select device</string>
-    <string name="setting_not_available">Setting not available</string>
-    <string name="setting_not_available_desc">This setting is only available on firmware 2.0.0 or greater. Firmware 2.0.0 will be released shortly.</string>
-    <string name="start_stop_not_available_desc">Start/Stop cannot be used in combination with WiFi Client Mode.</string>
-    <string name="menu_not_available">Menu not available</string>
-    <string name="menu_not_available_desc">This menu is only available on firmware 2.0.0 or greater. Firmware 2.0.0 will be released shortly.</string>
-    <string name="enabled">Enabled</string>
-    <string name="disabled">Disabled</string>
-    <string name="could_not_change_debug_mode">Could not change debug mode</string>
-    <string name="could_not_get_device_information">Could not get device information, is your device powered on?</string>
-    <string name="could_not_send_bug_report">Could not send bug report.</string>
-    <string name="bluetooth_permission">To able the use the app we need access to bluetooth, please grant access to bluetooth.</string>
-    <string name="exit">Exit</string>
-    <string name="grant">Grant</string>
-    <string name="wifi_mode">WiFi mode</string>
-    <string name="wifi_band">WiFi frequency band</string>
+    <string name="required_field">Questo campo è obbligatorio</string>
+    <string name="lets_start">Iniziamo!</string>
+    <string name="go_to_settings">Vai alle impostazioni</string>
+    <string name="welcome">Benvenuto!</string>
+    <string name="this_is_aawireless">Vai all\'app AAWireless, il primo dongle per Android Auto Wireless</string>
+    <string name="system_update">Aggiorna dispositivo</string>
+    <string name="select_device">Seleziona dispositivo</string>
+    <string name="setting_not_available">Impostazione non disponibile</string>
+    <string name="setting_not_available_desc">Opzione disponibile solo con firmware 2.0.0 o superiore. Sarà rilasciato a breve</string>
+    <string name="start_stop_not_available_desc">Start / Stop non può essere usato in combinazione con la modalità Client WiFi</string>
+    <string name="menu_not_available">Menù non disponibile</string>
+    <string name="menu_not_available_desc">Questo menù è disponibile solo sul firmware 2.0.0 o superiore. Sarà rilasciato a breve</string>
+    <string name="enabled">Abilitato</string>
+    <string name="disabled">Disabiltata</string>
+    <string name="could_not_change_debug_mode">Impossibile modificare la modalità debug</string>
+    <string name="could_not_get_device_information">Impossibile ottenere info, il dispositivo è acceso?</string>
+    <string name="could_not_send_bug_report">Impossibile inviare la segnalazione</string>
+    <string name="bluetooth_permission">Per utilizzare l\'app è necessario il bluetooth, consenti l\'accesso al bluetooth</string>
+    <string name="exit">Esci</string>
+    <string name="grant">Autorizza</string>
+    <string name="wifi_mode">Modalità WiFi</string>
+    <string name="wifi_band">Banda di frequenza WiFi</string>
     <string name="client">Client</string>
     <string name="hotspot">Hotspot</string>
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
-    <string name="order_now">Order now!</string>
+    <string name="order_now">Ordina ora!</string>
     <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
 
     <!-- Paired phone management -->
@@ -212,20 +212,20 @@
     <string name="unpair_phone">Disaccoppia telefono</string>
     <string name="increase_priority">Aumenta priorità</string>
     <string name="decrease_priority">Diminuisci priorità</string>
-    <string name="paired_phones_non_functional_warning">Abilitando la modalità Start / Stop o la modalità dongle, la priorità del telefono non funziona. Per assegnare la priorità ai telefoni con la modalità Start / Stop o dongle abilitata, dare la priorità alle connessioni vivavoce del telefono dall\'autoradio, se possibile.</string>
+    <string name="paired_phones_non_functional_warning">Abilitando la modalità Start / Stop o la modalità dongle, la priorità del telefono non funziona. Per assegnare la priorità ai telefoni con la modalità Start / Stop o dongle, dare la priorità alle connessioni vivavoce del telefono dall\'autoradio, se possibile.</string>
 
-    <string name="unstable_warning" translatable="false">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
-    <string name="delete_account" translatable="false">Delete account</string>
+    <string name="unstable_warning" translatable="false">"Questa è una versione di sviluppo (potenzialmente) instabile dell'app AAWireless. Ci possono essere bug o opzioni che non funzionano correttamente. Se preferisci la versione stabile dell'app, disiscriviti dalla distribuzione di sviluppo Firebase e scarica l'app AAWireless dal Play Store.\n\nPer eliminare il tuo account, clicca sul pulsante \"Elimina account\" sotto, autenticati con l'account Google e premi \"Elimina Account\" nella pagina web."</string>
+    <string name="delete_account" translatable="false">Elimina account</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override" translatable="false">Phone override</string>
-    <string name="widget_override_desc" translatable="false">Phone connection override widget</string>
+    <string name="widget_override" translatable="false">Escludi il telefono</string>
+    <string name="widget_override_desc" translatable="false">Widget per escludere la connessione del telefono</string>
     <string name="widget_override_device_name" translatable="false">Pixel 6</string>
-    <string name="title_activity_widget_override_connection" translatable="false">Phone override widget configuration</string>
-    <string name="widget_force_connect" translatable="false">Force connect</string>
-    <string name="widget_force_connect_desc" translatable="false">Device force connection widget</string>
+    <string name="title_activity_widget_override_connection" translatable="false">Configurazione widget di esclusione del telefono</string>
+    <string name="widget_force_connect" translatable="false">Forza connessione</string>
+    <string name="widget_force_connect_desc" translatable="false">Widget per forzare la connessione al dispositivo</string>
     <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Device force connection widget configuration</string>
+    <string name="title_activity_widget_force_connection" translatable="false">Widget di configurazione per forzare la connessione al dispositivo</string>
 
     <!-- Troubleshooting -->
     <string name="troubleshooting">Troubleshooting</string>
