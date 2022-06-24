@@ -153,31 +153,31 @@
 
     <string name="an_error_occurred_please_try_again">Si è verificato un errore, riprova</string>
     <string name="start_stop">Start / Stop</string>
-    <string name="start_stop_draw_over_other_apps">Per utilizzare la funzione Start / Stop autorizza il permesso "Mostra sopra altre app".\n\nDalle impostazioni del telefono "Mostra sopra altre app", cerca AAWireless e consenti la visualizzazione sopra altre app</string>
-    <string name="start_stop_desc">If your vehicle keeps the USB port always powered on, you can disable auto connect and select the car\'s handsfree connection to start / stop the Android Auto connection.</string>
-    <string name="enable_start_stop">Enable start / stop</string>
-    <string name="device_hfp_controlled">Device HFP controlled (experimental)</string>
-    <string name="device_usb_controlled">Device USB controlled (experimental)</string>
-    <string name="select_car_or_headunit">Select car / head unit</string>
-    <string name="permission_needed">Permission needed</string>
-    <string name="permission_required">Permission required</string>
+    <string name="start_stop_draw_over_other_apps">Per utilizzare la funzione Start / Stop autorizza il permesso "Mostra sopra altre app".\n\nDalle impostazioni del telefono "Mostra sopra altre app", cerca AAWireless ed autorizza il permesso</string>
+    <string name="start_stop_desc">Se il veicolo mantiene la porta USB alimentata, puoi disabilitare la connessione automatica e selezionare la connessione vivavoce per avviare / arrestare la connessione Android Auto</string>
+    <string name="enable_start_stop">Abilita Start / Stop</string>
+    <string name="device_hfp_controlled">Dispositivo controllato con HFP (sperimentale)</string>
+    <string name="device_usb_controlled">Dispositivo controllato con USB (sperimentale)</string>
+    <string name="select_car_or_headunit">Seleziona auto / unità principale</string>
+    <string name="permission_needed">Permesso necessario</string>
+    <string name="permission_required">Permesso richiesto</string>
 
-    <string name="connecting_to_device">Connecting to device</string>
-    <string name="delay_connect_to_device">Delaying connect to device</string>
-    <string name="connection_lost_reconnecting_to_device">Connection lost, reconnecting to device</string>
-    <string name="connected_to_device">Connected to device</string>
-    <string name="disconnecting_from_device">Disconnecting from device</string>
-    <string name="wifi_not_enabled">WiFi not enabled, please enable WiFi</string>
-    <string name="draw_overlays_not_enabled">Draw overlays not enabled, please enable</string>
-    <string name="idle">Idle</string>
+    <string name="connecting_to_device">Connessione in corso</string>
+    <string name="delay_connect_to_device">Ritardo la connessione al dispositivo</string>
+    <string name="connection_lost_reconnecting_to_device">Connessione persa, riconnetto al dispositivo</string>
+    <string name="connected_to_device">Connesso al dispositivo</string>
+    <string name="disconnecting_from_device">Disconnetto dal dispositivo</string>
+    <string name="wifi_not_enabled">WiFi non abilitato, abilitare il WiFi</string>
+    <string name="draw_overlays_not_enabled">Sovrapposizioni non abilitate, abilitare</string>
+    <string name="idle">In attesa</string>
     <string name="stop">Stop</string>
-    <string name="restart">Restart</string>
-    <string name="enable_wifi">Enable WiFi</string>
-    <string name="enable_draw_overlays">Enable draw overlays</string>
+    <string name="restart">Riavvia</string>
+    <string name="enable_wifi">Abilita WiFi</string>
+    <string name="enable_draw_overlays">Abilita sovrapposizioni</string>
 
-    <string name="already_a_device">Already have an AAWireless device? Get started!</string>
+    <string name="already_a_device">Hai già un dispositivo AAWireless? Iniziamo!</string>
 
-    <string name="invalid_email_address">Invalid e-mail address</string>
+    <string name="invalid_email_address">Indirizzo email non valido</string>
     <string name="required_field">This field is required</string>
     <string name="lets_start">Let\'s start</string>
     <string name="go_to_settings">Go to settings</string>
@@ -212,7 +212,7 @@
     <string name="unpair_phone">Disaccoppia telefono</string>
     <string name="increase_priority">Aumenta priorità</string>
     <string name="decrease_priority">Diminuisci priorità</string>
-    <string name="paired_phones_non_functional_warning">Abilitando la modalità start/stop o la modalità dongle, la priorità del telefono non funziona. Per assegnare la priorità ai telefoni con la modalità start/stop o dongle abilitata, dare la priorità alle connessioni vivavoce del telefono dall\'autoradio, se possibile.</string>
+    <string name="paired_phones_non_functional_warning">Abilitando la modalità Start / Stop o la modalità dongle, la priorità del telefono non funziona. Per assegnare la priorità ai telefoni con la modalità Start / Stop o dongle abilitata, dare la priorità alle connessioni vivavoce del telefono dall\'autoradio, se possibile.</string>
 
     <string name="unstable_warning" translatable="false">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
     <string name="delete_account" translatable="false">Delete account</string>
