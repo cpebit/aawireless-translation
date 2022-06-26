@@ -1,36 +1,36 @@
 <resources>
     <string name="aawireless" translatable="false">AAWireless</string>
-    <string name="get_going">Get Going</string>
-    <string name="step">Step %1$d / %2$d</string>
-    <string name="start">Start</string>
-    <string name="connect_phone">Please start your car and connect your phone using a wired USB connection first.</string>
-    <string name="to_begin">To begin setting up your device please make sure Wireless Projection is enabled inside Android Auto</string>
-    <string name="plug_in_aaw">Unplug your phone and plug in the AAWireless dongle.</string>
+    <string name="get_going">讓我們開始吧</string>
+    <string name="step">步驟 %1$d / %2$d</string>
+    <string name="start">開始</string>
+    <string name="connect_phone">請發動車輛並使用USB連接線將手機與車輛進行連線及配對.</string>
+    <string name="to_begin">要繼續設定您的裝置, 請確認Android Auto中的 \"無線Android Auto\" 功能已經開啟</string>
+    <string name="plug_in_aaw">將手機的連線拔除, 並將AAWireless與車輛連接</string>
 
-    <string name="if_not">If the \"Wireless Android Auto\" option is not visible you will need to enable it from the developer settings, please follow these steps:
+    <string name="if_not">如果看不到 \"無線Android Auto\", 則需要進入 開發人員設定模式 開啟此選項, 請執行下列步驟:
         \n
-        \nIn Android Auto settings, tap the version section 10 times in a row.
-        \nConfirm that you want to enable the developer settings.
-        \nFrom the top right corner menu select \"Developer options\" then enable \"Add Wireless Projection\"
+        \n於Android Auto設定頁最下方, 於版本處連續點選10次.
+        \n確認您要啟用 開發人員設定 模式.
+        \n點選右上角選單鍵,選取 \"開發人員設定\" 將 \"在設定中加入無線投影功能\" 啟動
         \n
-        \n<p>See images below:</p>
+        \n<p>請參考下圖:</p>
 </string>
-    <string name="start_setup">Start Setup</string>
-    <string name="open_aa_settings">Open Android Auto Settings</string>
-    <string name="open_bluetooth_settings">Open Bluetooth Settings</string>
-    <string name="open_wifi_settings">Open Wi-Fi Settings</string>
-    <string name="open_troubleshooting">Open troubleshooting</string>
-    <string name="could_not_open_aa_settings">Could not open Android Auto settings, is Android auto installed?</string>
-    <string name="next">Next</string>
-    <string name="plugin">Plug in</string>
-    <string name="searching">Searching</string>
-    <string name="for_aawireless">for AAWireless device...</string>
-    <string name="device_found">Device found</string>
-    <string name="launching">Launching...</string>
-    <string name="could_not_pair">Could not pair</string>
-    <string name="could_not_pair_desc">Could not pair, please restart the device or try to pair manually to AAWireless-*** or AndroidAuto-AAW***</string>
-    <string name="bt_not_found">Not found</string>
-    <string name="bt_not_found_desc">Is your device powered on? If it\'s powered on, please try to pair manually to AAWireless-*** or AndroidAuto-AAW***</string>
+    <string name="start_setup">開始設定</string>
+    <string name="open_aa_settings">開啟 Android Auto 設定</string>
+    <string name="open_bluetooth_settings">開啟 藍芽 設定</string>
+    <string name="open_wifi_settings">開啟 Wi-Fi 設定</string>
+    <string name="open_troubleshooting">開啟 問題排除</string>
+    <string name="could_not_open_aa_settings">無法開啟 Android Auto 設定, 有安裝Android Auto嗎?</string>
+    <string name="next">下一步</string>
+    <string name="plugin">連線</string>
+    <string name="searching">搜尋中</string>
+    <string name="for_aawireless">正在尋找您的 AAWireless...</string>
+    <string name="device_found">找到了</string>
+    <string name="launching">啟動中...</string>
+    <string name="could_not_pair">無法配對</string>
+    <string name="could_not_pair_desc">無法配對, 請重新啟動您的裝置或手動與 AAWireless-*** 或 AndroidAuto-AAW*** 配對</string>
+    <string name="bt_not_found">找不到裝置</string>
+    <string name="bt_not_found_desc">您的裝置有通電嗎? 如果有, 請嘗試手動與 AAWireless-*** 或 AndroidAuto-AAW*** 配對</string>
     <string name="retry">Retry</string>
     <string name="pairing">Pairing...</string>
     <string name="cancel">Cancel</string>
