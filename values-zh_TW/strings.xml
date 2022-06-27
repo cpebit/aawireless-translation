@@ -117,7 +117,7 @@
 
     <string name="ota_metered_network">您正在使用計量型網路, 確定要現在開始下載更新嗎? 您可以安排時間或立刻更新.</string>
 
-    <string name="wifi_client_desc">WIFI客戶端模式允許使用既有的WIFI網路(例如車輛熱點, 4G分享器等)進行連線. 使用此模式時無法使用 啟動偵測 及 自動連線.</string>
+    <string name="wifi_client_desc">WIFI客戶端模式允許使用既有的WIFI網路(例如車輛熱點, 4G分享器等)進行連線. 使用此模式時無法使用 例外啟動偵測 及 自動連線.</string>
     <string name="wifi_client_ssid">WIFI網路SSID</string>
     <string name="wifi_client_ssid_desc">請輸入WIFI網路的名稱</string>
     <string name="wifi_client_pass">WIFI網路密碼</string>
@@ -148,19 +148,19 @@
     <string name="could_not_get_debug_status">無法得知是否進入除錯模式, 您的AAWireless 有開機嗎?</string>
     <string name="submit">送出</string>
 
-    <string name="could_not_get_settings">Could not get settings, is your device powered on?</string>
-    <string name="could_not_save_settings">Could not save settings, is your device powered on?</string>
+    <string name="could_not_get_settings">無法讀取設定, 您的AAWireless 有開機嗎?</string>
+    <string name="could_not_save_settings">無法寫入設定, 您的AAWireless 有開機嗎?</string>
 
-    <string name="an_error_occurred_please_try_again">An error occurred, please try again</string>
-    <string name="start_stop">啟動偵測</string>
-    <string name="start_stop_draw_over_other_apps">For using the start stop feature we need the "Display over other apps" permission.\n\nIn the "Display over other apps" settings screen, please look for AAWireless and allow drawing over other apps.</string>
-    <string name="start_stop_desc">If your vehicle keeps the USB port always powered on, you can disable auto connect and select the car\'s handsfree connection to start / stop the Android Auto connection.</string>
-    <string name="enable_start_stop">Enable start / stop</string>
+    <string name="an_error_occurred_please_try_again">發生錯誤, 請再試一次</string>
+    <string name="start_stop">例外啟動偵測</string>
+    <string name="start_stop_draw_over_other_apps">使用例外啟動偵測功能時, 需要"顯示在其他應用程式上層"的權限.\n\n於"顯示在其他應用程式上層"設定頁, 尋找 AAWireless 並允許.</string>
+    <string name="start_stop_desc">如果你車機的USB常時供電, 你可以停用自動連線並選擇車機的免持連線作為 Android Auto 的啟動偵測模式.</string>
+    <string name="enable_start_stop">啟用例外啟動偵測</string>
     <string name="device_hfp_controlled">Device HFP controlled (experimental)</string>
     <string name="device_usb_controlled">Device USB controlled (experimental)</string>
-    <string name="select_car_or_headunit">Select car / head unit</string>
-    <string name="permission_needed">Permission needed</string>
-    <string name="permission_required">Permission required</string>
+    <string name="select_car_or_headunit">選擇 車輛 或 車機</string>
+    <string name="permission_needed">需要權限許可</string>
+    <string name="permission_required">需要的權限</string>
 
     <string name="connecting_to_device">Connecting to device</string>
     <string name="delay_connect_to_device">Delaying connect to device</string>
