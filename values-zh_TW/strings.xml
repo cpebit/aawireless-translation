@@ -117,42 +117,42 @@
 
     <string name="ota_metered_network">您正在使用計量型網路, 確定要現在開始下載更新嗎? 您可以安排時間或立刻更新.</string>
 
-    <string name="wifi_client_desc">WiFi client mode allows the use of an existing WiFi network such as an in-car hotspot. Using this mode will disable start/stop and auto-connect. </string>
-    <string name="wifi_client_ssid">Client SSID</string>
-    <string name="wifi_client_ssid_desc">Please enter the client network name</string>
-    <string name="wifi_client_pass">Client Password</string>
-    <string name="wifi_client_pass_desc">Please enter the client network password</string>
-    <string name="wifi_channel">WiFi Channel</string>
+    <string name="wifi_client_desc">WIFI客戶端模式允許使用既有的WIFI網路(例如車輛熱點, 4G分享器等)進行連線. 使用此模式時無法使用 啟動偵測 及 自動連線.</string>
+    <string name="wifi_client_ssid">WIFI網路SSID</string>
+    <string name="wifi_client_ssid_desc">請輸入WIFI網路的名稱</string>
+    <string name="wifi_client_pass">WIFI網路密碼</string>
+    <string name="wifi_client_pass_desc">請輸入WIFI網路的密碼</string>
+    <string name="wifi_channel">WiFi 頻道(CH)</string>
     <!-- TODO: review this text - needs to transfer responsibility for adherence to WiFi regulations to user -->
-    <string name="country_setting_desc">Set the country to determine local WiFi regulations. It is the responsibility of the user to ensure that the appropriate country is set to adhere to local regulations. After changing the country, the device will reboot.</string>
-    <string name="country">Country</string>
-    <string name="country_desc">Please select the appropriate country</string>
-    <string name="requires_v2">Some of the options below require firmware 2.0.0 or higher.</string>
+    <string name="country_setting_desc">選擇國家以確認當地合法的WIFI頻道. 確保合法使用, 使用者務必選擇正確的國家. 調整此選項後設備將會重開.</string>
+    <string name="country">國家</string>
+    <string name="country_desc">請選擇適合的國家</string>
+    <string name="requires_v2">下列部分功能需使用 2.0.0 或以上的韌體版本.</string>
 
-    <string name="see_faq">F.A.Q.</string>
-    <string name="bug_report_available">Bug report available</string>
-    <string name="start_debug_mode">Start debug mode</string>
-    <string name="stop_debug_mode">Stop debug mode and create bug report</string>
-    <string name="send_mail">Send e-mail</string>
-    <string name="bug_report_nag">Please only create a bug report when support asks to create a bug report. Bug reports without support ticket are not processed.</string>
-    <string name="bug_report">Bug report</string>
-    <string name="bug_report_desc">To create a bug report, please press the "Start debug mode" button below. When the problem has occurred, press the "Stop debug mode" button below. After the bug report is created a new screen will open, in this screen you will be able to send the bug report. Please only use this functionality when support asks for it.</string>
-    <string name="downloading_log">Downloading log</string>
-    <string name="download_log_failed">Log download failed</string>
-    <string name="log_download_notification_channel_name">Bug report</string>
-    <string name="issue_description">Please fill in a description of the issue.</string>
-    <string name="send">Send</string>
+    <string name="see_faq">常見問題</string>
+    <string name="bug_report_available">有問題報告可以回報</string>
+    <string name="start_debug_mode">開始除錯模式</string>
+    <string name="stop_debug_mode">停止除錯模式並產生問題報告</string>
+    <string name="send_mail">發送 e-mail</string>
+    <string name="bug_report_nag">只有在被技術支援者要求時, 開啟除錯模式產生問題報告. 沒有支援系統案例號碼的問題報告不會被處理.</string>
+    <string name="bug_report">問題報告</string>
+    <string name="bug_report_desc">要產生一個問題報告, 請按下方的"開始除錯模式". 當問題發生後, 按"停止除錯模式並產生問題報告". 問題報告產生後將顯示如何送出問題報告. 只有在被技術支援者要求時才使用這個功能.</string>
+    <string name="downloading_log">下載報告</string>
+    <string name="download_log_failed">下載報告失敗</string>
+    <string name="log_download_notification_channel_name">問題報告</string>
+    <string name="issue_description">請敘述您遭遇到的問題(英文).</string>
+    <string name="send">發送</string>
     <string name="support_request_for">Support request for %s</string>
     <string name="support_address">mailto:support@cpeb.it</string>
     <string name="faq_address">https://cpeb.freshdesk.com</string>
-    <string name="could_not_get_debug_status">Could not get debugging status, is your AAWireless device powered on?</string>
-    <string name="submit">Submit</string>
+    <string name="could_not_get_debug_status">無法得知是否進入除錯模式, 您的AAWireless 有開機嗎?</string>
+    <string name="submit">送出</string>
 
     <string name="could_not_get_settings">Could not get settings, is your device powered on?</string>
     <string name="could_not_save_settings">Could not save settings, is your device powered on?</string>
 
     <string name="an_error_occurred_please_try_again">An error occurred, please try again</string>
-    <string name="start_stop">Start / Stop</string>
+    <string name="start_stop">啟動偵測</string>
     <string name="start_stop_draw_over_other_apps">For using the start stop feature we need the "Display over other apps" permission.\n\nIn the "Display over other apps" settings screen, please look for AAWireless and allow drawing over other apps.</string>
     <string name="start_stop_desc">If your vehicle keeps the USB port always powered on, you can disable auto connect and select the car\'s handsfree connection to start / stop the Android Auto connection.</string>
     <string name="enable_start_stop">Enable start / stop</string>
