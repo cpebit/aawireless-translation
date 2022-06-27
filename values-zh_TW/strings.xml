@@ -168,12 +168,12 @@
     <string name="connected_to_device">已連線到裝置</string>
     <string name="disconnecting_from_device">與裝置斷線中</string>
     <string name="wifi_not_enabled">WiFi 未開啟, 請開啟 WiFi</string>
-    <string name="draw_overlays_not_enabled">不被允許"顯示在其他應用程式上層", 請允許</string>
+    <string name="draw_overlays_not_enabled">不被允許 顯示在其他應用程式上層 , 請允許</string>
     <string name="idle">閒置</string>
     <string name="stop">停止</string>
     <string name="restart">重新啟動</string>
     <string name="enable_wifi">開啟 WiFi</string>
-    <string name="enable_draw_overlays">允許 "顯示在其他應用程式上層"</string>
+    <string name="enable_draw_overlays">允許 顯示在其他應用程式上層</string>
 
     <string name="already_a_device">已經擁有 AAWireless 了嗎? 讓我們開始!</string>
 
