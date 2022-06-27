@@ -195,65 +195,65 @@
     <string name="could_not_change_debug_mode">無法開啟除錯模式</string>
     <string name="could_not_get_device_information">無法獲得裝置資訊, 您的AAWireless 有開機嗎?</string>
     <string name="could_not_send_bug_report">無法傳送問題報告.</string>
-    <string name="bluetooth_permission">To able the use the app we need access to bluetooth, please grant access to bluetooth.</string>
-    <string name="exit">Exit</string>
-    <string name="grant">Grant</string>
-    <string name="wifi_mode">WiFi mode</string>
-    <string name="wifi_band">WiFi frequency band</string>
-    <string name="client">Client</string>
-    <string name="hotspot">Hotspot</string>
+    <string name="bluetooth_permission">需要能夠存取藍芽才能繼續, 請允許使用藍芽.</string>
+    <string name="exit">離開</string>
+    <string name="grant">允許</string>
+    <string name="wifi_mode">WiFi 模式</string>
+    <string name="wifi_band">WiFi 頻率</string>
+    <string name="client">客戶端</string>
+    <string name="hotspot">熱點</string>
     <string name="wifi_24ghz">2.4 Ghz</string>
     <string name="wifi_5ghz">5 Ghz</string>
-    <string name="order_now">Order now!</string>
+    <string name="order_now">馬上訂購!</string>
     <string name="order_address">https://www.indiegogo.com/projects/aawireless</string>
 
     <!-- Paired phone management -->
-    <string name="paired_phones">Paired phones</string>
-    <string name="unpair_phone">Unpair phone</string>
-    <string name="increase_priority">Increase priority</string>
-    <string name="decrease_priority">Decrease priority</string>
-    <string name="paired_phones_non_functional_warning">With start / stop mode or dongle mode enabled phone prioritization is not functional. For prioritizing phones with start / stop or dongle mode enabled please prioritize phone handsfree connections on your car radio if possible.</string>
+    <string name="paired_phones">已配對的手機</string>
+    <string name="unpair_phone">解除手機配對</string>
+    <string name="increase_priority">提高優先權</string>
+    <string name="decrease_priority">降低優先權</string>
+    <string name="paired_phones_non_functional_warning">排序時如同時使用 例外啟動偵測 或 Dongle模式, 排序功能不可用. 可嘗試使用免持連線排序.</string>
 
-    <string name="unstable_warning" translatable="false">This is an (potentially) unstable development version of the AAWireless app. There can be bugs or features which don\'t work correctly yet. If you want a stable version of the app, please delete your Firebase App Distribution tester account and download the AAWireless app from the Play Store.\n\nTo delete your account, please click the \"Delete account\" button below, login with your Google Account and press the \"Delete Account\" button on the webpage.</string>
-    <string name="delete_account" translatable="false">Delete account</string>
+    <string name="unstable_warning" translatable="false">你正在使用的是開發版的APP, 有可能並不穩定. 有可能會有錯誤或是功能無法正確動作. 如果你需要穩定版, 請刪除你的 Firebase App 測試帳號並由 Play Store 下載.\n\n要刪除您的帳號, 請按下方 "刪除帳號" 的按鈕後, 以您的Google 帳號登入後, 於網頁中點選 \"Delete Account\".</string>
+    <string name="delete_account" translatable="false">刪除帳號</string>
 
     <!-- Widget TODO: translate -->
-    <string name="widget_override" translatable="false">Phone override</string>
-    <string name="widget_override_desc" translatable="false">Phone connection override widget</string>
+    <string name="widget_override" translatable="false">手機指定連線</string>
+    <string name="widget_override_desc" translatable="false">手機指定連線小工具</string>
     <string name="widget_override_device_name" translatable="false">Pixel 6</string>
-    <string name="title_activity_widget_override_connection" translatable="false">Phone override widget configuration</string>
-    <string name="widget_force_connect" translatable="false">Force connect</string>
-    <string name="widget_force_connect_desc" translatable="false">Device force connection widget</string>
+    <string name="title_activity_widget_override_connection" translatable="false">手機指定連線小工具設定</string>
+    <string name="widget_force_connect" translatable="false">裝置指定連線</string>
+    <string name="widget_force_connect_desc" translatable="false">裝置指定連線小工具</string>
     <string name="widget_force_connect_device_name" translatable="false">AndroidAuto-AAW123</string>
-    <string name="title_activity_widget_force_connection" translatable="false">Device force connection widget configuration</string>
+    <string name="title_activity_widget_force_connection" translatable="false">裝置指定連線小工具設定</string>
 
     <!-- Troubleshooting -->
-    <string name="troubleshooting">Troubleshooting</string>
-    <string name="led_color_title">LED color?</string>
-    <string name="led_color_desc">Can you please check the LED color of the device?</string>
-    <string name="led_blinking_green">Blinking green</string>
-    <string name="no_blinking_green">No, it\'s blinking green</string>
-    <string name="led_blinking_blue">Blinking blue</string>
-    <string name="no_blinking_blue">No, it\'s blinking blue</string>
-    <string name="led_solid_blue">Solid blue</string>
-    <string name="no_solid_blue">No, it\'s solid blue</string>
-    <string name="led_solid_green">Solid green</string>
-    <string name="led_solid_white">Solid white</string>
-    <string name="is_wifi_visible_title">Is Wi-Fi visible?</string>
-    <string name="wireless_projection_auto_title">Wireless Projection</string>
-    <string name="wireless_projection_auto_desc">Please ensure Wireless Projection is enabled by following the instructions below. Afterwards please press the \"Next\" button.</string>
-    <string name="contact_support">Contact support</string>
-    <string name="other_issue">Other issues</string>
+    <string name="troubleshooting">問題排除</string>
+    <string name="led_color_title">LED 顏色?</string>
+    <string name="led_color_desc">請您確認裝置上LED燈的顏色以及狀態?</string>
+    <string name="led_blinking_green">綠色且閃爍</string>
+    <string name="no_blinking_green">不, 是綠色且閃爍</string>
+    <string name="led_blinking_blue">藍色且閃爍</string>
+    <string name="no_blinking_blue">不, 是藍色且閃爍</string>
+    <string name="led_solid_blue">藍色, 恆亮</string>
+    <string name="no_solid_blue">不, 是藍色且恆亮</string>
+    <string name="led_solid_green">綠色, 恆亮</string>
+    <string name="led_solid_white">白色, 恆亮</string>
+    <string name="is_wifi_visible_title">Wi-Fi 可被看到嗎?</string>
+    <string name="wireless_projection_auto_title">無線Android Auto</string>
+    <string name="wireless_projection_auto_desc">請依下列方法開啟 無線Android Auto, 接著請按 \"下一步\" .</string>
+    <string name="contact_support">聯絡支援</string>
+    <string name="other_issue">其他問題</string>
     <string name="change_bandwidth_title">Wi-Fi 2.4 GHz</string>
-    <string name="change_bandwidth_desc">Your phone may only support 2.4Ghz Wi-Fi. Please use the button below to set the device to use 2.4GHz Wi-Fi.</string>
-    <string name="contact_support_title">Contact support</string>
-    <string name="contact_support_desc">Please contact support for further assistance.</string>
-    <string name="does_not_work_over_usb_title">Wired connection</string>
-    <string name="does_not_work_over_usb_desc">When you connect your phone via wired USB connection, does Android Auto work as expected?</string>
-    <string name="is_wifi_visible_desc">Please open Wi-Fi settings by clicking the button below and verify if a Wi-Fi network called \"AAWireless-xxxxxx\" or \"AndroidAuto-AAWxxxxx\" is visible.</string>
-    <string name="is_wifi_visible_desc2">Is it visible?</string>
+    <string name="change_bandwidth_desc">你的手機似乎只支援 2.4GHz 的Wi-Fi. 請按下方的按鈕設定本裝置使用 2.4GHz Wi-Fi.</string>
+    <string name="contact_support_title">聯絡支援</string>
+    <string name="contact_support_desc">請聯絡支援服務得到進一步的協助.</string>
+    <string name="does_not_work_over_usb_title">有線連接</string>
+    <string name="does_not_work_over_usb_desc">當你的手機與車機使用有線連接時, Android Auto 有正常運作嗎?</string>
+    <string name="is_wifi_visible_desc">請按下方開啟 Wi-Fi 設定, 並確認能看到一個 Wi-Fi 名稱是 \"AAWireless-xxxxxx\" 或 \"AndroidAuto-AAWxxxxx\".</string>
+    <string name="is_wifi_visible_desc2">可以看到嗎?</string>
     <string name="yes">Yes</string>
-    <string name="one_button">Next</string>
+    <string name="one_button">下一步</string>
     <string name="service_reset">Open Google Play services settings</string>
     <string name="aa_reset">Open Android Auto settings</string>
     <string name="no">No</string>
