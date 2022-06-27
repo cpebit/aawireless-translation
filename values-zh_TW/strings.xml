@@ -162,7 +162,7 @@
     <string name="permission_needed">需要權限許可</string>
     <string name="permission_required">需要的權限</string>
 
-    <string name="connecting_to_device">Connecting to device</string>
+    <string name="connecting_to_device">連線到裝置</string>
     <string name="delay_connect_to_device">Delaying connect to device</string>
     <string name="connection_lost_reconnecting_to_device">Connection lost, reconnecting to device</string>
     <string name="connected_to_device">Connected to device</string>
